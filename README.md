@@ -44,6 +44,9 @@ This repository contains the code and data used in the paper titled "Universals 
 
 For any questions or issues, please contact Sibish Neelikattil Basheer Ahammed at sibbsnb@gmail.com.
 
+## Published Paper link
+https://www.ijmra.us/project%20doc/2024/IJME_SEPTEMBER2024/IJMIE5_Sep24_66232.pdf
+
 ---
 
 Thank you for your interest in our work. Your feedback and contributions are highly appreciated.
